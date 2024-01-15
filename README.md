@@ -7,3 +7,4 @@ Step 2: Gemini pro LLM creates the Query and hit the database and then we will g
 Step 3: Create a Sqlite3 database and insert some records using python script.
 
 Step 4: deployed same project in Huggingface.
+(https://huggingface.co/spaces/Shivashankar/Shivashankar_Text_to_SQL)
